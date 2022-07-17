@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python, Django
 - 💞️ I’m looking to collaborate on... nothing i'm fine where i am :)
-- 📫 How to reach me Mamyia#2137Ż 
+- 📫 How to reach me Mamyia#2137
 
 We trust you have received the usual lecture from the local System
 Administrator. It usually boils down to these three things:
